@@ -9,3 +9,5 @@ prediction_and_evaluation.py makes predictions both with DNN and Conventional Me
 nntrain.15__64.weights.h5 is the best model weights according to train data
 
 nnval.15__64.weights.h5 is the best model weights according to validation data
+
+There is the train, validation and test data in MATLAB folder in one piece
